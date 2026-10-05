@@ -1,3 +1,6 @@
+''Use In Turmax''
+
+'''
 apt update -y
 apt upgrade -y
 apt install git -y
@@ -7,3 +10,4 @@ cd EH-BOMBER
 chmod +x *
 pip install -r bomb.txt
 python EH-BOMBER.py
+'''
